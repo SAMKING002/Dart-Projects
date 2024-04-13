@@ -31,7 +31,7 @@ int getFirstElement(lst){
  }
  void main(){
 // Test the functions
-print(wel_Name("Welcome to our Dart class, Take your cup of coffee as we embark on this journey together."));
+print(wel_Name("Welcome to our Dart class, Take your cup of coffee as we embark on this epic journey together."));
 print(addTwo(5, 3));          // Output: 8
 print(subtractTwo(5, 3));      // Output: 2
 print(multiplyTwo(5, 3));      // Output: 15
